@@ -1,48 +1,37 @@
 {
   "main": {
-    "id": "ffd9028b053de06c",
+    "id": "5ba8c1bc62965359",
     "type": "split",
     "children": [
       {
-        "id": "d7c749bccc49a8ee",
+        "id": "abd5703d4b806577",
         "type": "tabs",
         "children": [
           {
-            "id": "8e6481a0a790df58",
+            "id": "ab296dedda05d751",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "932ac9d351da0abb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Household Chores Management.md",
-                "mode": "source",
-                "source": false
+                "file": "Ideias.excalidraw"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "47b3f44475ee16b1",
+    "id": "70531cb84ef33895",
     "type": "split",
     "children": [
       {
-        "id": "1339acfd75517d4f",
+        "id": "0f66868d186d991c",
         "type": "tabs",
         "children": [
           {
-            "id": "84078a4e9e1e9e90",
+            "id": "a9ce51594e146176",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +41,7 @@
             }
           },
           {
-            "id": "32397c43358b55df",
+            "id": "8fbbec5bb58ea827",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +56,7 @@
             }
           },
           {
-            "id": "263bbb418972d1ce",
+            "id": "519c4f641bcfc043",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +70,20 @@
     "width": 300
   },
   "right": {
-    "id": "ea7fb0c1fe1de8df",
+    "id": "d7db3579b6c18a5b",
     "type": "split",
     "children": [
       {
-        "id": "41ad95eec9dafa26",
+        "id": "5e547ecbf7e6ade5",
         "type": "tabs",
         "children": [
           {
-            "id": "44d0b131c447e3de",
+            "id": "84d80f1705762948",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Household Chores Management.md",
+                "file": "Ideias.excalidraw",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +95,19 @@
             }
           },
           {
-            "id": "343025310cf11b35",
+            "id": "e6d9b3a3a60a38a6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Household Chores Management.md",
+                "file": "Ideias.excalidraw",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "952085947cdd6c2e",
+            "id": "40d426019ce7e4a4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,12 +118,12 @@
             }
           },
           {
-            "id": "ae24b6f30be744a9",
+            "id": "af4f03ce20e7c8f3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Household Chores Management.md"
+                "file": "Ideias.excalidraw"
               }
             }
           }
@@ -152,11 +141,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "932ac9d351da0abb",
+  "active": "ab296dedda05d751",
   "lastOpenFiles": [
-    "Household Chores Management.md"
+    "Household Chores Management.md",
+    "Obdisian Vault/Household Chores Management.md",
+    "Household-Chores-Management/Ideias.excalidraw",
+    "Household-Chores-Management/Obdisian Vault/Ideias.excalidraw",
+    "Household-Chores-Management/Obdisian Vault/Household Chores Management.md",
+    "Household-Chores-Management/Obdisian Vault",
+    "Household-Chores-Management/New folder",
+    "Household-Chores-Management/Household Chores Management.md"
   ]
 }
